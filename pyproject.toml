@@ -1,0 +1,12 @@
+[project]
+name = "envhelper"
+version = "1.0.0"
+description = "Lightweight .env manager for Python"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name="Климов Александр Николаевич"}]
+requires-python = ">=3.8"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
